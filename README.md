@@ -1,1 +1,0 @@
-# bekirbedir.github.io
