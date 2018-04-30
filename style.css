@@ -2,6 +2,10 @@
         color: #408080;
     }
     
+    .container-fluid {
+        padding: 0;
+    }
+    
     .w60 {
         width: 60%;
     }
@@ -94,3 +98,15 @@
     }
     
     .row-star-area {}
+    
+    .button-custom {
+        padding: 2px 22px 2px 22px;
+    }
+    
+    .line-block {
+        text-shadow: 1px 1px #ccc;
+        height: 100px;
+        background-color: cornflowerblue;
+        font-size: 3.5em;
+        color: white;
+    }
