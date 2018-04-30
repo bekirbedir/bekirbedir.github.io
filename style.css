@@ -1,0 +1,96 @@
+    body {
+        color: #408080;
+    }
+    
+    .w60 {
+        width: 60%;
+    }
+    
+    .hw150 {
+        width: 110px;
+        height: 120px;
+    }
+    
+    .p-15 {
+        padding: 15px;
+    }
+    
+    .border3 {
+        border: 1px solid black;
+    }
+    
+    .space-20 {
+        height: 20px;
+    }
+    
+    .space-15 {
+        height: 15px;
+    }
+    
+    .space-15-layer {
+        margin: 5px 0 5px 0;
+        height: 2px;
+        background: antiquewhite;
+    }
+    
+    .name {
+        text-align: center;
+        font-family: 'Rubik Mono One', sans-serif;
+        font-weight: 900;
+        font-size: 2.5em;
+    }
+    
+    .info-text {
+        font-size: 12px;
+        color: black;
+        padding: 1px;
+        margin: 1px;
+    }
+    
+    .info-breadcumb {
+        font-size: 15px;
+        margin: 5px;
+        padding: 2px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: center;
+        color: #155724;
+        background-color: #d4edda;
+        border-color: #c3e6cb;
+        border: 1px solid transparent;
+        border-radius: 0.25rem
+    }
+    
+    .main-box {
+        color: yellowgreen;
+        text-align: center;
+    }
+    
+    .box-i {
+        font-size: 2.5em;
+    }
+    
+    .content-text {
+        font-size: 12px;
+        color: black;
+        padding: 1px;
+        margin: 1px;
+    }
+    
+    .education-info {
+        text-align: right;
+    }
+    
+    .row-star {
+        font-size: 12px;
+        color: black;
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    .row-star-i {
+        font-size: 12px;
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    .row-star-area {}
